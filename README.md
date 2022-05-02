@@ -1,5 +1,5 @@
 # animeTeian
-a simple discord bot that suggests anime with given genres to users and is under developement.
+a simple discord bot that suggests anime with given genres to users and is under developement and uses text files instead of database to simplify hosting.
 
 ## Commands
 
