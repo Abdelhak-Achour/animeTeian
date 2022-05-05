@@ -18,12 +18,13 @@ pip install mal-api
 python bot.py
 ```
 
-## Discord command
+## Discord commands
 
 ```bash
 ota anime_suggest action/adventure/drama
 ota as comedy/sci-fi
 ota any_anime_suggest
+ota aas
 ```
 
 ## License
