@@ -21,6 +21,7 @@ python bot.py
 ## Discord commands
 
 ```bash
+ota atdb anime_name
 ota anime_suggest action/adventure/drama
 ota as comedy/sci-fi
 ota any_anime_suggest
