@@ -18,6 +18,14 @@ pip install mal-api
 python bot.py
 ```
 
+## Discord command
+
+```bash
+ota anime_suggest action/adventure/drama
+ota as comedy/sci-fi
+ota any_anime_suggest
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
